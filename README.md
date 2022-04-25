@@ -28,6 +28,7 @@ git clone https://github.com/PanJiaChen/vue-admin-template.git
 cd vue-admin-template
 
 # install dependency
+# 先安装 npm install core-js
 npm install
 
 # develop
